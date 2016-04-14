@@ -1,0 +1,12 @@
+body {
+	margin-top: 20px;
+}
+
+h1, h2 {
+  font-family: fantasy, sans-serif;
+
+}
+
+.spacing {
+	margin: 20px 10px;
+}
