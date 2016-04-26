@@ -1,9 +1,15 @@
 body {
 	margin-top: 20px;
+	font-family: 'Oswald', sans-serif;
+}
+
+img {
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 
 h1, h2 {
-  font-family: fantasy, sans-serif;
+  font-family: 'Oregano', cursive;
 
 }
 
