@@ -1,4 +1,4 @@
-freeCodeCamp Tribute page project
+freeCodeCamp Tribute Page project
 
 User Story #1: I can view a tribute page with an image and text.
 
