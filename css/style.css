@@ -1,11 +1,11 @@
 body {
-	margin-top: 20px;
-	font-family: 'Oswald', sans-serif;
+  margin-top: 20px;
+  font-family: 'Oswald', sans-serif;
 }
 
 img {
-	margin-top: 30px;
-	margin-bottom: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 h1, h2 {
@@ -14,5 +14,5 @@ h1, h2 {
 }
 
 .spacing {
-	margin: 20px 10px;
+  margin: 20px 10px;
 }
